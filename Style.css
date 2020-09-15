@@ -16,4 +16,22 @@ tr:nth-child(even){
 .right{
 	text-align: right;
 }
-
+.yellow{
+	background-color: yellow;
+}
+.green{
+	background-color: green;
+}
+.red{
+	background-color: red;
+}
+.black{
+	background-color: black;
+}
+.blue{
+	background-color: blue;
+}
+.table{
+	width: 800px;
+	height: 500px;
+}
